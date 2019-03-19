@@ -14,6 +14,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Vannsl",
+  "author": {
+    "name": "Vanessa Böhner",
+    "twitter": "Vannsl"
+  },
   "license": "ISC"
 }
